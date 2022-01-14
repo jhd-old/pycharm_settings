@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/Documents/get-pip.py" />
+        <option value="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/get-pip.py" />
       </list>
     </option>
     <option name="frameInfo">
