@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.must.e-technik.tu-darmstadt.de" />
+          <option name="userName" value="doersam" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
