@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MeasurementSetupLevitator'" />
-    <option name="defaultScopeName" value="Project 'MeasurementSetupLevitator'" />
-    <option name="SEARCH_SCOPE" value="Project 'MeasurementSetupLevitator'" />
+    <option name="customScope" value="Project 'measurement_setup_levitator'" />
+    <option name="defaultScopeName" value="Project 'measurement_setup_levitator'" />
+    <option name="SEARCH_SCOPE" value="Project 'measurement_setup_levitator'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
