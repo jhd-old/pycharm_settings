@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\components\enums.py'" />
-    <option name="defaultScopeName" value="File '…\components\enums.py'" />
-    <option name="SEARCH_SCOPE" value="File '…\components\enums.py'" />
+    <option name="customScope" value="File '…\communication\web_server.py'" />
+    <option name="defaultScopeName" value="File '…\communication\web_server.py'" />
+    <option name="SEARCH_SCOPE" value="File '…\communication\web_server.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
