@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\util\time.py'" />
-    <option name="defaultScopeName" value="File '…\util\time.py'" />
-    <option name="SEARCH_SCOPE" value="File '…\util\time.py'" />
+    <option name="customScope" value="File '…\data\utils.py'" />
+    <option name="defaultScopeName" value="File '…\data\utils.py'" />
+    <option name="SEARCH_SCOPE" value="File '…\data\utils.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
